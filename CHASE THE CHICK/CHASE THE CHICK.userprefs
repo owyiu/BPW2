@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OnInformation.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CharacterCode.cs" Line="36" Column="3" />
+      <File FileName="Assets\Scripts\KipjeSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AanvallendEICode.cs" Line="17" Column="36" />
+      <File FileName="Assets\Scripts\KipjeCode.cs" Line="8" Column="19" />
+      <File FileName="Assets\Scripts\GoToSceneButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuitCode.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\ClickCode.cs" Line="37" Column="3" />
+      <File FileName="Assets\Scripts\OnInformation.cs" Line="6" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
